@@ -14,21 +14,6 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-### Instructor
-
-Ray Villalobos 
-                            
-Author, Multimedia Developer
-
                             
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos).
